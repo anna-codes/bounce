@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="bounce.css">
+  </head>
+  <body>
+  <canvas id="c"></canvas>
+  <script type="text/javascript" src="bounce.js">
+  </script>
+  </body>
+</html>
